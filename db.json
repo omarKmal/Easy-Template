@@ -1,0 +1,114 @@
+{
+  "alldata": [
+    {
+      "features": [
+        {
+          "image": "http://localhost:9000/001-stats.svg",
+          "header": "Cash Collection",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        },
+        {
+          "image": "http://localhost:9000/002-coins.svg",
+          "header": "Analytics",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        },
+        {
+          "image": "http://localhost:9000/003-gold-ingots.svg",
+          "header": "Payment",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        },
+        {
+          "image": "http://localhost:9000/004-notebook.svg",
+          "header": "Cash Collection",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        },
+        {
+          "image": "http://localhost:9000/005-brochure.svg",
+          "header": "Analytics",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        },
+        {
+          "image": "http://localhost:9000/006-garage.svg",
+          "header": "Payment",
+          "title": "Manage your invoces from creation to payment. With Upflow you'll collect 100% of."
+        }
+      ]
+    },
+
+    {
+      "slider": [
+        {
+          "image": "http://localhost:9000/person_1.jpg",
+          "name": "Kaila Woodland",
+          "title": "Owner, Greenland, Inc.",
+          "content": "“Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.”"
+        },
+        {
+          "image": "http://localhost:9000/person_2.jpg",
+          "name": "Kaila Woodland",
+          "title": "Owner, Greenland, Inc.",
+          "content": "“Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.”"
+        },
+        {
+          "image": "http://localhost:9000/person_4.jpg",
+          "name": "Kaila Woodland",
+          "title": "Owner, Greenland, Inc.",
+          "content": "“Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.”"
+        }
+      ]
+    },
+    {
+      "price": [
+        {
+          "priceType": "Personal",
+          "title": "Far far away, behind the word mountains",
+          "priceOne": 29,
+          "priceTwo": 299,
+          "about": "Far far away, behind the word mountains"
+        },
+        {
+          "priceType": "Enterprise",
+          "title": "Far far away, behind the word mountains",
+          "priceOne": 49,
+          "priceTwo": 599,
+          "about": "Far far away, behind the word mountains"
+        },
+        {
+          "priceType": "Enterprise",
+          "title": "Far far away, behind the word mountains",
+          "priceOne": 99,
+          "priceTwo": "1,999",
+          "about": "Far far away, behind the word mountains"
+        }
+      ]
+    }
+    ,{
+      "blog": [
+        {
+          "date": "May 14, 2020",
+          "header" : "Far far away, behind the word mountains",
+          "title" : "Vokalia and Consonantia, there live the blind texts. Separated they live.",
+          "image" : "http://localhost:9000/gal_1.jpg"
+        },
+        {
+          "date": "May 14, 2020",
+          "header" : "Far far away, behind the word mountains",
+          "title" : "Vokalia and Consonantia, there live the blind texts. Separated they live.",
+          "image" : "http://localhost:9000/gal_2.jpg"
+        },
+        {
+          "date": "May 14, 2020",
+          "header" : "Far far away, behind the word mountains",
+          "title" : "Vokalia and Consonantia, there live the blind texts. Separated they live.",
+          "image" : "http://localhost:9000/gal_3.jpg"
+        },
+        {
+          "date": "May 14, 2020",
+          "header" : "Far far away, behind the word mountains",
+          "title" : "Vokalia and Consonantia, there live the blind texts. Separated they live.",
+          "image" : "http://localhost:9000/gal_4.jpg"
+        }
+      ]
+    }
+  ]
+}
