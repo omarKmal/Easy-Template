@@ -55,6 +55,7 @@ const CardContainer = styled.div`
   background-color: #fff;
   position: relative;
   transition: all 0.7s ease-in-out;
+  margin-right: 20px;
 
   &:hover ${ChevronContainer} {
     border: 1px solid #ff6363;
@@ -63,9 +64,6 @@ const CardContainer = styled.div`
     /* visibility: visible; */
     right: ${({ isHover }) => (isHover ? "45px" : "45px")};
     opacity: ${({ isHover }) => (isHover ? "0" : "1")};
-  }
-  &:not(:last-of-type) {
-    margin-right: 20px;
   }
 
   @media screen and (max-width: ${deviceSize.tablet}px) {
